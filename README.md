@@ -10,7 +10,7 @@ föreläsningen återfinns här.
 
 ## Kod
 Vissa exempel på Python-kod för elementär linjär algebra.
-Formatet är jupyter-notebook. Ladda ner, titta på 
-[notebook](Kod/minstakvadratmetoden.ipynb) eller
-[pdf](Kod/minstakvadratmetoden.pdf) eller
-klistra in URL till (https://nbviewer.org).
+Formatet är jupyter-notebook. [Inspektera](Kod/minstakvadratmetoden.ipynb) dem,
+ladda ner dem och kör lokalt, 
+eller
+klistra in URL till [nbviewer.org](https://nbviewer.org).
