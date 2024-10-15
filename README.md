@@ -5,7 +5,12 @@
 ## Föreläsningsanteckningar
 - År 2022 använde jag TeX-ade presentationer, dessa är mer fullständiga.
 - 2024 års anteckningar är stöd för minnet för mig själv, men de kan möjligen vara av intresse för studenter, eftersom t.ex vissa exempel jag gick igenom översiktligt på
-föreläsningen återfinns här
+föreläsningen återfinns här.
 
 
 ## Kod
+Vissa exempel på Python-kod för elementär linjär algebra.
+Formatet är jupyter-notebook. Ladda ner, titta på 
+[[Kod/minstakvadratmetoden.ipynb][notebook]] eller
+[[Kod/minstakvadratmetoden.pdf][typsatt version]] eller
+klistra in URL till [[nbviewer.org]].
