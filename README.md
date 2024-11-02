@@ -3,9 +3,3 @@
 
 
 
-
-## Kod
-Vissa exempel på Python-kod för elementär linjär algebra.
-Se till exempel demonstration av
-[minstakvadratmetoden](Kod/minstakvadratmetoden.ipynb).
-
