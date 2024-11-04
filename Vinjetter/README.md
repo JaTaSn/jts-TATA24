@@ -17,4 +17,4 @@
    10. [Vinjett 10, Interpolation](Vinjett10n.pdf)
    11. [Vinjett 11, Flervariabelanalys](Vinjett11n.pdf)
    12. [Vinjett 12, Markovkedja](Vinjett12n.pdf)
-   13. [Vinjett 13, Ordinbäddningar](Vignett-LLM-bias-JV.pdf). Se även [tillhörande kod](../Kod/wordembeddings-minimal.ipynb)
+   13. [Vinjett 13, Ordinbäddningar](Vinjett-LLM-bias.pdf). Se även [tillhörande kod](../Kod/wordembeddings-new.ipynb)
